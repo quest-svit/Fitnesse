@@ -1,0 +1,12 @@
+!define TEST_SYSTEM {slim}
+!path ${PWD}/target
+!path ${PWD}
+|import|
+|fixtures|
+
+!4 Testing of Add function.
+!|Test Sub|
+|num1|num2 | result?|
+|1 |5 | -4|
+|-10 |5 |-15|
+|-5 |-5 |0|

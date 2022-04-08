@@ -1,0 +1,11 @@
+FitNesseRoot/properties
+FitNesseRoot/ErrorLogs/*
+FitNesseRoot/files/testResults/*
+FitNesseRoot/RecentChanges*
+FitNesseRoot/RerunLastFailures*.wiki
+FitNesseRoot/updateDoNotCopyOverList
+FitNesseRoot/updateList
+FitNesseRoot/FrontPage/*.zip
+FitNesseRoot/FrontPage/TestCalculatorSuite/*.zip
+target/
+.idea/
