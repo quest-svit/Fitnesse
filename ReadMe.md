@@ -15,11 +15,11 @@ It can perform integration Tests on the system under test.
    1. The script compiles the code 
    2. Then it compiles the fixtures. 
    3. Then it starts the fitnesse server.
-![start](Demo/startFitnesse.png)
+![start](docs/startFitnesse.png)
 2. Go to browser and Open http://localhost:/7000. 
 3. When running for the first time it will show the following home-page
-![default-home](Demo/DefaultHome.png)
+![default-home](docs/DefaultHome.png)
 4. Add some Suite and Test Pages.
-![add-test](Demo/addFitnesseTest.png)
+![add-test](docs/addFitnesseTest.png)
 5. Run the suite
-![suite-run](Demo/Running_Suite.png)
+![suite-run](docs/Running_Suite.png)
